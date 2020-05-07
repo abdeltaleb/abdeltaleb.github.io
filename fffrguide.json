@@ -1,3 +1,28 @@
-{"FB_NB_ONE":"0","FB_NB_TWO":"0","FB_NB_THREE":"0","FB_NB_FOUR":"0","FB_INTER_ONE":"0","FB_INTER_TWO":"0","FB_INTER_THREE":"0","FB_INTER_FOUR":"0","AD_NETWORK":"admob","ADMOB_BANNER_ONE":"0","ADMOB_BANNER_TWO":"0","ADMOB_BANNER_THREE":"0","ADMOB_BANNER_FOUR":"0","ADMOB_INTER_ONE":"0","ADMOB_INTER_TWO":"0","ADMOB_INTER_THREE":"0","ADMOB_INTER_FOUR":"0","FLURRY_ID":"0","RATE":"0","SA_ID":"204480556","SHOW":"0","UPDATE":"0","UPDATE_CONTENT":"Please UPDATE the app to continue using free. (Your musics will be backed up)","RATE_CONTENT":"Please Give us your feedback","NOT_NOW":"Not","NEW_APP":"https://play.google.com/store/apps/details?id=com.tech.app.moovie.steaam"}
+{
+"FB_NB_ONE":"0",
+"FB_NB_TWO":"0",
+"FB_NB_THREE":"0",
+"FB_NB_FOUR":"0",
+"FB_INTER_ONE":"0",
+"FB_INTER_TWO":"0",
+"FB_INTER_THREE":"0",
+"FB_INTER_FOUR":"0",
+"AD_NETWORK":"admob",
+"ADMOB_BANNER_ONE":"ca-app-pub-6232209789173904/5929212124",
+"ADMOB_BANNER_TWO":"ca-app-pub-6232209789173904/2739393264",
+"ADMOB_BANNER_THREE":"ca-app-pub-6232209789173904/4048605502",
+"ADMOB_BANNER_FOUR":"ca-app-pub-6232209789173904/2735523838",
+"ADMOB_INTER_ONE":"ca-app-pub-6232209789173904/7378025163",
+"ADMOB_INTER_TWO":"ca-app-pub-6232209789173904/4544457195",
+"ADMOB_INTER_THREE":"ca-app-pub-6232209789173904/9931487578",
+"ADMOB_INTER_FOUR":"ca-app-pub-6232209789173904/1989967110",
+"FLURRY_ID":"0","RATE":"0",
+"SA_ID":"0",
+"SHOW":"0",
+"UPDATE":"0",
+"UPDATE_CONTENT":"Please UPDATE the app to continue using free. (Your musics will be backed up)",
+"RATE_CONTENT":"Please Give us your feedback",
+"NOT_NOW":"Not",
+"NEW_APP":"https://play.google.com/store/apps/details?id=com.tech.app.moovie.steaam"}
 
 
